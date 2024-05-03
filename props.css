@@ -1,0 +1,23 @@
+.welcome{
+    border: 3px solid hsl(0, 0%, 11%);
+    display: inline-block;
+    background-color: rgb(8, 154, 8);
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+    color: white;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login{
+    border: 3px solid hsl(0, 0%, 11%);
+    display: inline-block;
+    background-color: red;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+    color: white;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
